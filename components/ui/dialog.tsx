@@ -12,7 +12,7 @@ const DialogTrigger = DialogPrimitive.Trigger
 
 const DialogPortal = ({
   className,
-  ...props
+...props
 }: DialogPrimitive.DialogPortalProps) => (
   <DialogPrimitive.Portal className={cn(className)} {...props} />
 )
@@ -118,6 +118,5 @@ export {
   DialogContent,
   DialogHeader,
   DialogFooter,
-  DialogTitle,
-  DialogDescription,
+  DialogTitle, DialogDescription,
 }
