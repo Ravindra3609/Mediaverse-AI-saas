@@ -1,4 +1,4 @@
-MediaVerse is an innovative web application that seamlessly integrates OpenAI, Replicate, and 
+MediaVerse is an innovative web application that seamlessly integrates OpenAI, Replicate, and
 other cutting-edge APIs to provide a comprehensive suite of features. These include video & audio 
 generation, real-time chat, code generation, and image generation. The platform's user-friendly 
 the interface allows for the effortless creation of high-quality videos, audio content, and images. 
