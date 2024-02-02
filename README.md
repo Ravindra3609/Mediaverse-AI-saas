@@ -1,4 +1,4 @@
-![Sign in  or create](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/7dd56987-0601-493e-bc39-f2ac5b9753d8)![Image Gen](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/f6869948-f57e-4868-8f82-9183d8b1687f)![Screenshot_20230806_210434](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/4fa8ee22-d0df-4720-ae68-19a395ba7d95)![Prisma db](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/0a6cba34-ebda-4116-b546-df12b22c4f8a)MediaVerse is an innovative web application that seamlessly integrates OpenAI, Replicate, and
+MediaVerse is an innovative web application that seamlessly integrates OpenAI, Replicate, and
 other cutting-edge APIs to provide a comprehensive suite of features. These include video & audio 
 generation, real-time chat, code generation, and image generation. The platform's user-friendly 
 the interface allows for the effortless creation of high-quality videos, audio content, and images. 
@@ -18,7 +18,7 @@ whether you're new or good at this stuff.
 
 MediaVerse is all about making things easy and exciting for you. Its simple design helps everyone, 
 from beginners to experts, use all its features without any trouble. Whether you want to make fun 
-videos, improve audio, create eye-catching pictures, or collaborate with others in real time, 
+videos, improve audio, create eye-catching pictures, or collaborate with others in real-time, 
 MediaVerse is here to make your creative journey smooth and fun. 
 
 In this fast-changing digital world, MediaVerse stands out by using smart AI tech to change how 
@@ -26,6 +26,18 @@ we make things. With OpenAI, Replicate, and other clever tools, it's a great exa
 humans and technology can work together. Start your creative adventure with MediaVerse today, 
 where innovation has no limits.
 
+
+![Sign in  or create](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/383dbb5d-e700-4e45-b338-6099a864a860)
+![All Gen](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/c1222826-c370-49e1-bb7c-63a5e7ac123f)
+![image](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/34b25f02-dcfc-48a9-9e6d-47eb049775e2)
+![image](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/c47d326d-f16e-40fb-9625-de4c9178b4b9)
+![Image Gen](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/fec35b28-fbf2-4099-a1a5-5eda58bb7e6a)
+![Music gen](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/30034aba-f83c-4b4c-ab67-6102d1d55b46)
+![Video Gen](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/b997da1f-839d-4697-b318-42ff8c0e8925)
+![Payment dashboard](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/1ed14310-bb63-4bd6-9556-e7d1e46c62c3)
+![Prisma db](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/7ed38e9f-c750-4b22-b3c5-9462e08e23b0)
+![Payment db](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/554b75aa-9a30-42f0-b2bb-760a19cdec0a)
+![Planetscale db](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/e662ddd6-85c1-4f8d-ba2b-6d278abfb4e2)
 
 
 **Deployment**
