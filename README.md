@@ -26,15 +26,8 @@ we make things. With OpenAI, Replicate, and other clever tools, it's a great exa
 humans and technology can work together. Start your creative adventure with MediaVerse today, 
 where innovation has no limits.
 
+![All Gen](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/5b7bf041-fba6-454b-852e-9a0776e07a27)
 
-
-![IMG_20230806_202635](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/ee7b3992-9fdf-45c6-a1fb-a1fbb50297ef)
-![IMG_20230806_202714](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/0af96f51-c1f1-46ef-9c5c-af31a1bc775d)
-![Screenshot_20230806_210434](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/270fb3c6-be2e-460e-ab3a-e7038d53346e)
-![Screenshot_20230806_202431](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/bd2bb54b-b7f3-4760-a4a6-9465b5036205)
-![Screenshot_20230806_202341](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/036c855a-92bc-4202-a43f-988ba85ba7c4)
-![IMG_20230806_202736](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/db4369f2-f503-48f8-8d1b-4c008163599a)
-![IMG_20230806_202649](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/3fc67200-ee57-4b1e-bd53-213fcc5cfbc2)
 
 
 
