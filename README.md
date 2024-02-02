@@ -1,4 +1,4 @@
-MediaVerse is an innovative web application that seamlessly integrates OpenAI, Replicate, and
+![Sign in  or create](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/7dd56987-0601-493e-bc39-f2ac5b9753d8)![Image Gen](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/f6869948-f57e-4868-8f82-9183d8b1687f)![Screenshot_20230806_210434](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/4fa8ee22-d0df-4720-ae68-19a395ba7d95)![Prisma db](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/0a6cba34-ebda-4116-b546-df12b22c4f8a)MediaVerse is an innovative web application that seamlessly integrates OpenAI, Replicate, and
 other cutting-edge APIs to provide a comprehensive suite of features. These include video & audio 
 generation, real-time chat, code generation, and image generation. The platform's user-friendly 
 the interface allows for the effortless creation of high-quality videos, audio content, and images. 
@@ -25,9 +25,6 @@ In this fast-changing digital world, MediaVerse stands out by using smart AI tec
 we make things. With OpenAI, Replicate, and other clever tools, it's a great example of how 
 humans and technology can work together. Start your creative adventure with MediaVerse today, 
 where innovation has no limits.
-
-![All Gen](https://github.com/Ravindra3609/Mediaverse-AI-saas/assets/84234685/5b7bf041-fba6-454b-852e-9a0776e07a27)
-
 
 
 
